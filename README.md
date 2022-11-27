@@ -1,5 +1,7 @@
 # Telegram-Bot
-Telegram bot written and tested
+Telegram bot written and tested.
+
+Telegram name Currency genius (https://t.me/courseofexchangeBot)
 
 The bot returns the price for a certain amount of currency (euro, dollar, ruble and bitcoin).
 
